@@ -1,0 +1,3 @@
+/home/orange/graDesign/coding/string_view/build/CMakeFiles/edit_cache.dir
+/home/orange/graDesign/coding/string_view/build/CMakeFiles/rebuild_cache.dir
+/home/orange/graDesign/coding/string_view/build/CMakeFiles/string_view.dir
