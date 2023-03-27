@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/string_view.dir/main.cpp.o  -o ../bin/string_view 
