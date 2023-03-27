@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/orange/graDesign/coding/strXor/strXor.cpp
+strXor.h
+/home/orange/graDesign/coding/strXor/strXor.h
+
+/home/orange/graDesign/coding/strXor/strXor.h
+iostream
+-
+cstdio
+-
+cstdlib
+-
+string
+-
+
