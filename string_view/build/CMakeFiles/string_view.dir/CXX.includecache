@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/orange/graDesign/coding/string_view/main.cpp
+string_view.h
+/home/orange/graDesign/coding/string_view/string_view.h
+typeinfo
+-
+
+/home/orange/graDesign/coding/string_view/string_view.h
+algorithm
+-
+cassert
+-
+cstddef
+-
+cstring
+-
+ios
+-
+iostream
+-
+iterator
+-
+ostream
+-
+stdexcept
+-
+string
+-
+
