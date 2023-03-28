@@ -5,3 +5,5 @@ And then, there are some implement.
 There are two edition string_view lib which were implemented by others.
 ## strXor
 There is a way to XOR two string, maybe another way you can convert the string to bitset or other.
+## RLcoding
+There is run length coding about binary string.
