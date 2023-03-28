@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/orange/graDesign/coding/RLcoding/binaryRL.cpp
+binaryRL.h
+/home/orange/graDesign/coding/RLcoding/binaryRL.h
+
+/home/orange/graDesign/coding/RLcoding/binaryRL.h
+iostream
+-
+cstdio
+-
+cstdlib
+-
+string
+-
+boost/algorithm/string.hpp
+-
+vector
+-
+time.h
+-
+
