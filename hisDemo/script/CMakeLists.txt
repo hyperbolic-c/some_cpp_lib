@@ -1,0 +1,6 @@
+aux_source_directory(. SRC_LIST)
+include_directories(../include)
+link_directories(${PROJECT_SOURCE_DIR}/lib)
+add_executable(compress ${SRC_LIST})
+target_link_libraries(compress wavereader waveoutputter)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
