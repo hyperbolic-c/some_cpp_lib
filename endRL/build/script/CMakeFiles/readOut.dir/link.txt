@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/readOut.dir/main.cpp.o CMakeFiles/readOut.dir/readerDemo.cpp.o  -o ../../bin/readOut   -L/home/orange/graDesign/endRL/lib  -Wl,-rpath,/home/orange/graDesign/endRL/lib -Wl,-Bstatic -lwavereader -Wl,-Bdynamic 

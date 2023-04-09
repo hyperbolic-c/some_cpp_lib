@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/compress.dir/readerDemo.cpp.o  -o ../../bin/compress   -L/home/orange/graDesign/endRL/lib  -Wl,-rpath,/home/orange/graDesign/endRL/lib -Wl,-Bstatic -lwavereader -Wl,-Bdynamic 

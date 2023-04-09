@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/DigitalType.h
+vector
+-
+string
+-
+map
+-
+set
+-
+
+../include/WaveformReaderForCompetition.h
+string
+-
+map
+-
+set
+-
+
+/home/orange/graDesign/endRL/script/readerDemo.cpp
+cassert
+-
+cstdlib
+-
+cstdio
+-
+iostream
+-
+time.h
+-
+DigitalType.h
+/home/orange/graDesign/endRL/script/DigitalType.h
+WaveformReaderForCompetition.h
+/home/orange/graDesign/endRL/script/WaveformReaderForCompetition.h
+
