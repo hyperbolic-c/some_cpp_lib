@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/orange/graDesign/coding/time_coding/main.cpp
+iostream
+-
+time_diff_coding.h
+/home/orange/graDesign/coding/time_coding/time_diff_coding.h
+
+/home/orange/graDesign/coding/time_coding/time_diff_coding.cpp
+time_diff_coding.h
+/home/orange/graDesign/coding/time_coding/time_diff_coding.h
+
+/home/orange/graDesign/coding/time_coding/time_diff_coding.h
+string
+-
+

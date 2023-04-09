@@ -1,0 +1,3 @@
+/home/orange/graDesign/coding/time_coding/build/CMakeFiles/rebuild_cache.dir
+/home/orange/graDesign/coding/time_coding/build/CMakeFiles/edit_cache.dir
+/home/orange/graDesign/coding/time_coding/build/CMakeFiles/timeCoding.dir
