@@ -7,3 +7,9 @@ There are two edition string_view lib which were implemented by others.
 There is a way to XOR two string, maybe another way you can convert the string to bitset or other.
 ## RLcoding
 There is run length coding about binary string.
+## time_coding
+time diff coding
+## endRL
+end at NO RunLength Coding version
+## hisDemo
+the last time final complete version
