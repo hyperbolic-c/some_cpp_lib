@@ -1,4 +1,3 @@
-
 #include "readerDemo.h"
 
 void SignalCoding::addSymbolWidth(std::string &symbol, int width)
