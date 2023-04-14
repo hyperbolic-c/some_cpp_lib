@@ -1,20 +1,20 @@
 #ifndef READERDEMO_H
 #define READERDEMO_H
 
-#include <cassert>
-#include <cstdlib>
-#include <cstdio>
-#include <iostream>
-#include <time.h>
 #include "DigitalType.h"
 #include "WaveformReaderForCompetition.h"
+#include <cassert>
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+#include <iostream>
 
 class SignalCoding
 {
 private:
     std::map<std::string, int> map_symbol_width_;
 public:
-    SignalCoding(){};
+    SignalCoding()= default;;
     //~SignalCoding();
     void addSymbolWidth(std::string &symbol, int width);
     int getMapSize();

@@ -88,7 +88,6 @@ void dumpScopeInfo(Scope *scope, FILE *fp, SignalCoding *signal_coding)
     }
     // get sub socpes info
     
-    
     const std::vector<Scope *> &subscopes = scope->getSubScopes();
     for (unsigned i = 0; i < subscopes.size(); ++i)
     {
